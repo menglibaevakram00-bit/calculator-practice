@@ -1,4 +1,6 @@
+
 print("Hello from Master")
-print("This is feature branch")
-print("This is feature branch")
+
+print("Hello from conflict branch")
+
 print("This is feature branch")
